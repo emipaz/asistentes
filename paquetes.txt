@@ -1,0 +1,4 @@
+openai
+discord.py==2.1.0
+python-dotenv
+python-telegram-bot
